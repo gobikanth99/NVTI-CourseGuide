@@ -1,0 +1,816 @@
+<resources>
+    <string name="app_name">Course CatLog</string>
+    <string name="intro">Introduction</string>
+    <string name="intro_content">The <b>Vocational Training Authority of Sri Lanka(VTA)</b> was established on 16th August 1995 under the provisions of the Vocational Training Authority of Sri Lanka Act No.12 of 1995.It was a concept of His Excellency the former President Mahinda Rajapaksa when he was the Hon. Ministry of Labor and Vocational Training. VTA was established with the intent to provide skills for employment. The Manpower Division, the training arm of Labor Department which was running Technical and Vocational training programs in many parts of Sri Lanka, this was converted to the newly constitute Vocational Training Authority (VTA) making vocational training more accessible to rural youth and depressed segments in the country.\n
+\nThe key intention behind establishing the VTA was to reach the rural mass of the country which was 72% of the total population, and make them to be skillful to find employment opportunities both locally and internationally. The the Board of Directors representing various ministries assigned with specific subjects areas, i.e., youth affairs, education, industrial development, finance and labor including the corporate sector.
+    </string>
+    <string name="vission">To be the most dynamic and innovative vocational training provider in Sri Lanka, catering to the global employment market. </string>
+    <string name="mission">To facilitate the fulfilment of the global skilled employment demand by developing competencies in individuals through modern methods and technologies in vocational training and education. We realize this mission by setting the highest standards in our services and facilities while focusing on employability trends in the world of work. </string>
+    <string name="contact_us"> NVTI Batticaloa\nA.P.C Road, Vantharumoolai.\ndvtbatticoloa@vtasl.gov.lk \n652240159</string>
+
+
+    <string name="cen">
+        <font color="#0000" size="17">\n\n<font color="#9d1d40">&#8226;</font> NVTI Vantharmoolai \n</font>
+        <font color="#0000" size="17">\n\n<font color="#9d1d40">&#8226;</font> Arayampathy VTC \n</font>
+        <font color="#0000" size="17">\n\n<font color="#9d1d40">&#8226;</font> Kaluwanchikudy VTC \n</font>
+        <font color="#0000" size="17">\n\n<font color="#9d1d40">&#8226;</font> Kattankudy VTC  \n</font>
+        <font color="#0000" size="17">\n\n<font color="#9d1d40">&#8226;</font> Kiran VTC \n</font>
+        <font color="#0000" size="17">\n\n<font color="#9d1d40">&#8226;</font> Onthachimadam VTC \n</font>
+        <font color="#0000" size="17">\n\n<font color="#9d1d40">&#8226;</font> Paddipalai VTC \n</font>
+        <font color="#0000" size="17">\n\n<font color="#9d1d40">&#8226;</font> Vaharai VTC \n</font>
+        <font color="#0000" size="17">\n\n<font color="#9d1d40">&#8226;</font> Valaichchenai VTC \n</font>
+        <font color="#0000" size="17">\n\n<font color="#9d1d40">&#8226;</font> Vavunathivu VTC \n</font>
+        <font color="#0000" size="17">\n\n<font color="#9d1d40">&#8226;</font> Vellavelly VTC \n</font>
+    </string>
+
+
+    <string name="ndict"><font color="#9d1d40" size="20">Introduction</font><font color="#0000" size="17">
+        \n\n<font color="#9d1d40">&#8226;</font>This is the ideal course for beginners who wish to obtain a through knowledge in <b>ICT</b> for highest studies,or for those who wish to take up
+        careers in Information Technology Graduation.</font>
+    <font color="#9d1d40" size="20">\n\nEntry Qualifications</font><font color="#0000" size="17">
+            \n\n<li><ul><b>NVQ Level 4</b> OR <b>NVQ Level 3</b> OR   <b>A/Level 3 Simple Pass Included ICT </b>  With <b>O/Level 6 Credit Pass</b> Over 60% add the Entrance Examination Conducted by the <b>VTA</b></ul></li></font>
+        <font color="#9d1d40" size="20">\n\nCourse Modules</font><font color="#0000" size="17">
+        \n\n  <b>Semester 1\n</b>
+            \n<font color="#9d1d40">&#8226;</font> Database System 1
+            \n\n<font color="#9d1d40">&#8226;</font> Graphic Design
+            \n\n<font color="#9d1d40">&#8226;</font> Software Programming
+            \n\n<font color="#9d1d40">&#8226;</font> System Analysis And Design
+            \n\n<font color="#9d1d40">&#8226;</font> Workplace Information Management
+            \n\n<font color="#9d1d40">&#8226;</font> Workplace Communication Management
+
+            \n\n  <b>Semester 2\n</b>
+            \n\n<font color="#9d1d40">&#8226;</font> Database System 2
+            \n\n<font color="#9d1d40">&#8226;</font> Software Testing
+            \n\n<font color="#9d1d40">&#8226;</font> Web Programming
+            \n\n<font color="#9d1d40">&#8226;</font> Local Area Network (LAN)
+            \n\n<font color="#9d1d40">&#8226;</font> Planning and Scheduling Work at Workplace\n\n</font>
+        <font color="#9d1d40" size="20">\n\nDuration</font><font color="#0000" size="17">\n\n<font color="#9d1d40">&#8226;</font> 12 Months</font>
+        <font color="#9d1d40" size="20">\n\nNVQ Certificate Level</font><font color="#0000" size="17">\n\n<font color="#9d1d40">&#8226;</font> Level 05</font>
+        <font color="#9d1d40" size="20">\n\nAvailable Centres</font>
+            <font color="#0000" size="17">\n\n<font color="#9d1d40">&#8226;</font> NVTI Vantharmoolai \n</font>
+    </string>
+
+    <string name="ndqs"><font color="#9d1d40" size="20">Introduction</font><font color="#0000" size="17">
+        \n\n<font color="#9d1d40">&#8226;</font>The Quantity Surveyor NVQ Level 5 course provides advanced training for professionals
+        who want to become experts in the field of construction cost management, estimating, and project
+        management. Students will gain knowledge and skills in analyzing and controlling project costs, as well as
+        effective communication and team management skills.</font>
+    <font color="#9d1d40" size="20">\n\nEntry Qualifications</font><font color="#0000" size="17">
+            \n\n<li><ul><b>AQS/Draughtsman/sight Supervisor</b> OR <b>A/Level(Maths/Bio/E-Tech/B-Tech) </b></ul></li></font>
+        <font color="#9d1d40" size="20">\n\nCourse Modules</font><font color="#0000" size="17">
+        \n\n  <b>Semester 1\n</b>
+            \n\n<font color="#9d1d40">&#8226;</font> Mathematics
+            \n\n<font color="#9d1d40">&#8226;</font> Building Measurements I
+            \n\n<font color="#9d1d40">&#8226;</font> Building Construction Technology
+            \n\n<font color="#9d1d40">&#8226;</font> Law in Construction
+            \n\n<font color="#9d1d40">&#8226;</font> Workplace Information Management
+            \n\n  <b>Semester 2\n</b>
+            \n\n<font color="#9d1d40">&#8226;</font> Building Measurements II
+            \n\n<font color="#9d1d40">&#8226;</font> Preliminary Estimating
+            \n\n<font color="#9d1d40">&#8226;</font> Cost Planning and Analysis
+            \n\n<font color="#9d1d40">&#8226;</font> Procurement in Construction
+            \n\n<font color="#9d1d40">&#8226;</font> Estimating and Building
+            \n\n<font color="#9d1d40">&#8226;</font> General Economics
+            \n\n<font color="#9d1d40">&#8226;</font> Standard Forms of Contract
+            \n\n<font color="#9d1d40">&#8226;</font> Workplace Communication Management
+            \n\n<font color="#9d1d40">&#8226;</font> Planning and Scheduling Work at Workplace\n</font>
+        <font color="#9d1d40" size="20">\n\nDuration</font><font color="#0000" size="17">\n\n<font color="#9d1d40">&#8226;</font> 12 Months</font>
+        <font color="#9d1d40" size="20">\n\nNVQ Certificate Level</font><font color="#0000" size="17">\n\n<font color="#9d1d40">&#8226;</font> Level 05</font>
+        <font color="#9d1d40" size="20">\n\nAvailable Centres</font>
+            <font color="#0000" size="17">\n\n<font color="#9d1d40">&#8226;</font> NVTI Vantharmoolai \n</font>
+    </string>
+
+    <string name="ict4"><font color="#9d1d40" size="20">Introduction</font><font color="#0000" size="17">
+        \n\n<font color="#9d1d40">&#8226;</font>The NVQ4 in Information Communication Technology (ICT) Technician is a comprehensive course that equips students with
+        the technical knowledge and practical skills needed to work as competent ICT Technicians in various settings.
+        The course covers hardware and software installation, network administration, database management
+        , Static web development, and programming, among other topics.
+        </font>
+    <font color="#9d1d40" size="20">\n\nEntry Qualifications</font><font color="#0000" size="17">
+            \n\n<li><ul><b>NVQ Level 3</b> OR <b>O/Level 6 Credit Pass Included Science,Maths and English</b></ul></li></font>
+        <font color="#9d1d40" size="20">\n\nCourse Modules</font><font color="#0000" size="17">
+        \n<font color="#9d1d40">&#8226;</font> Maintain Files and Folders
+            \n\n<font color="#9d1d40">&#8226;</font> Perform Word Processing
+            \n\n<font color="#9d1d40">&#8226;</font> Prepare Spread Sheet
+            \n\n<font color="#9d1d40">&#8226;</font> Prepare Presentation
+            \n\n<font color="#9d1d40">&#8226;</font> Maintain Database
+            \n\n<font color="#9d1d40">&#8226;</font> Perform Internet and Electronic Mail Operation
+            \n\n<font color="#9d1d40">&#8226;</font> Install and Configure Operating System
+            \n\n<font color="#9d1d40">&#8226;</font> Conduct <Installa></Installa>tion and Trouble Shooting Network From Client PC
+            \n\n<font color="#9d1d40">&#8226;</font> Develop Graphics For Web/Print Media
+            \n\n<font color="#9d1d40">&#8226;</font> Design and Develop Static Web Pages
+            \n\n<font color="#9d1d40">&#8226;</font> Develop Basic Software Solution</font>
+        <font color="#9d1d40" size="20">\n\nDuration</font><font color="#0000" size="17">\n\n<font color="#9d1d40">&#8226;</font> 06 Months</font>
+        <font color="#9d1d40" size="20">\n\nNVQ Certificate Level</font><font color="#0000" size="17">\n\n<font color="#9d1d40">&#8226;</font> Level 04</font>
+        <font color="#9d1d40" size="20">\n\nAvailable Centres</font>
+            <font color="#0000" size="17">\n\n<font color="#9d1d40">&#8226;</font>  NVTI Vantharmoolai</font>
+            <font color="#0000" size="17">\n<font color="#9d1d40">&#8226;</font>  VTC Arayampathy </font>
+            <font color="#0000" size="17">\n<font color="#9d1d40">&#8226;</font>  VTC Kattankudy </font>
+            <font color="#0000" size="17">\n<font color="#9d1d40">&#8226;</font> VTC Kaluwanchikudy </font>
+            <font color="#0000" size="17">\n<font color="#9d1d40">&#8226;</font>  VTC Valaichchenai </font>
+            <font color="#0000" size="17">\n<font color="#9d1d40">&#8226;</font>  VTC Vaharai </font>
+            <font color="#0000" size="17">\n<font color="#9d1d40">&#8226;</font>  VTC Vavunativu \n</font>
+    </string>
+
+    <string name="machinist4"><font color="#9d1d40" size="20">Introduction</font><font color="#0000" size="17">
+        \n\n<li><ul>The NVQ4 in Machinist is a vocational training program that focuses on developing practical skills in machining and metalworking, preparing students
+        for a career in the manufacturing industry. Upon completion, students are equipped with the necessary skills to operate a range of machine tools and interpret
+        engineering drawings to produce precision components for various applications</ul></li></font>
+    <font color="#9d1d40" size="20">\n\nEntry Qualifications</font><font color="#0000" size="17">
+            \n\n<li><ul><b>O/Level 6 Passes Included Maths</b> OR <b>Eligible For 13+ Education</b></ul></li></font>
+        <font color="#9d1d40" size="20">\n\nCourse Modules</font><font color="#0000" size="17">
+        \n<font color="#9d1d40">&#8226;</font> Communication Skills for Workplace
+            \n\n<font color="#9d1d40">&#8226;</font> Workshop Calculation and Science
+            \n\n<font color="#9d1d40">&#8226;</font> Team Work
+            \n\n<font color="#9d1d40">&#8226;</font>Occupational Health, Safety and Environmental Protections
+            \n\n<font color="#9d1d40">&#8226;</font> Maintenance and Service of Machine
+            \n\n<font color="#9d1d40">&#8226;</font> Mechanical Drawing
+            \n\n<font color="#9d1d40">&#8226;</font> Properties of Material
+            \n\n<font color="#9d1d40">&#8226;</font> Hand Tools, Measuring Instruments
+            \n\n<font color="#9d1d40">&#8226;</font> Lathe Operation
+            \n\n<font color="#9d1d40">&#8226;</font> Lathe Operation - Thread Cutting
+            \n\n<font color="#9d1d40">&#8226;</font> Drilling Operations
+            \n\n<font color="#9d1d40">&#8226;</font> Tools Grinding
+            \n\n<font color="#9d1d40">&#8226;</font> Grinding Operation
+            \n\n<font color="#9d1d40">&#8226;</font> Conventional Milling Operation
+            \n\n<font color="#9d1d40">&#8226;</font> Tools and Cutter Grinding
+            \n\n<font color="#9d1d40">&#8226;</font> Machine Gears</font>
+        <font color="#9d1d40" size="20">\n\nDuration</font><font color="#0000" size="17">\n\n<font color="#9d1d40">&#8226;</font> 12 Months</font>
+        <font color="#9d1d40" size="20">\n\nNVQ Certificate Level</font><font color="#0000" size="17">\n\n<font color="#9d1d40">&#8226;</font> Level 04</font>
+        <font color="#9d1d40" size="20">\n\nAvailable Centres</font>
+            <font color="#0000" size="17">\n\n<font color="#9d1d40">&#8226;</font> NVTI Vantharmoolai \n</font>
+    </string>
+
+    <string name="cnc4"><font color="#9d1d40" size="20">Introduction</font><font color="#0000" size="17">
+        \n\n<li><ul> The NVQ4 in Computer Numerical Control (CNC) is a comprehensive course that prepares students to become competent CNC operators, programmers,
+        and machinists. The course covers various aspects of CNC machining, including programming, setup, operation, and maintenance of CNC machines, as well as
+        safety procedures and quality control measures. </ul></li></font>
+    <font color="#9d1d40" size="20">\n\nEntry Qualifications</font><font color="#0000" size="17">
+            \n\n<li><ul><b>NVQ Level 04 Certificate In Machinist </b> With <b>O/Level 6 Passes Included Maths</b></ul></li></font>
+        <font color="#9d1d40" size="20">\n\nCourse Modules</font><font color="#0000" size="17">
+        \n\n<font color="#9d1d40">&#8226;</font> CNC Lathe
+            \n\n<font color="#9d1d40">&#8226;</font> CNC Milling</font>
+        <font color="#9d1d40" size="20">\n\nDuration</font><font color="#0000" size="17">\n\n<font color="#9d1d40">&#8226;</font> 06 Months</font>
+        <font color="#9d1d40" size="20">\n\nNVQ Certificate Level</font><font color="#0000" size="17">\n\n<font color="#9d1d40">&#8226;</font> Level 04</font>
+        <font color="#9d1d40" size="20">\n\nAvailable Centres</font>
+            <font color="#0000" size="17">\n\n<font color="#9d1d40">&#8226;</font> NVTI Vantharmoolai \n</font>
+    </string>
+
+    <string name="act"><font color="#9d1d40" size="20">Introduction</font><font color="#0000" size="17">
+        \n\n<li><ul> The NVQ4 in Refrigeration and Air Conditioning Technician is a comprehensive course that prepares students to become
+        competent technicians in the refrigeration and air conditioning industry. The course covers installation, repair, maintenance,
+        and troubleshooting of refrigeration and air conditioning systems, as well as safety procedures, environmental regulations, and customer service </ul></li></font>
+    <font color="#9d1d40" size="20">\n\nEntry Qualifications</font><font color="#0000" size="17">
+            \n\n<li><ul><b>O/Level 6 Passes Included Maths and Science </b> </ul></li></font>
+        <font color="#9d1d40" size="20">\n\nCourse Modules</font><font color="#0000" size="17">
+        \n<font color="#9d1d40" size="20">&#8226;</font> Occupational Safety, Health and Environmental Safety
+            \n\n<font color="#9d1d40">&#8226;</font> Team Work
+            \n\n<font color="#9d1d40">&#8226;</font> Basic Workshop Practice
+            \n\n<font color="#9d1d40">&#8226;</font> Fundamentals of Electricity
+            \n\n<font color="#9d1d40">&#8226;</font> Welding and Brazing
+            \n\n<font color="#9d1d40">&#8226;</font> Fundamentals of Refrigeration and Air Conditioning
+            \n\n<font color="#9d1d40">&#8226;</font> Repair and Maintenance of Refrigerators Bottle Cooler and Deep Freezers
+            \n\n<font color="#9d1d40">&#8226;</font> Repairing and Maintaining of Domestic Air Conditioners
+            \n\n<font color="#9d1d40">&#8226;</font> Troubleshooting and Rectifying of Fault in Air Conditioner
+            \n\n<font color="#9d1d40">&#8226;</font> Installation of Domestic Air Conditioner
+            \n\n<font color="#9d1d40">&#8226;</font> Prepare Cost Estimate For Repair
+            \n\n<font color="#9d1d40">&#8226;</font> Communication Skill for Workplace
+            \n\n<font color="#9d1d40">&#8226;</font> Variable Refrigerant Volume (VRV) Variable Refrigerant Flow (VRF) System
+            \n\n<font color="#9d1d40">&#8226;</font> Installation of Water - Cooler Air Conditioners
+            \n\n<font color="#9d1d40">&#8226;</font> Pipeline Installation
+            \n\n<font color="#9d1d40">&#8226;</font> Cooling Tower and Condenser Pump
+            \n\n<font color="#9d1d40">&#8226;</font> Servicing Of Air - Cooled Air - Conditioning Units
+            \n\n<font color="#9d1d40">&#8226;</font> Servicing of Water - Cooler Air - Conditioning Units
+            \n\n<font color="#9d1d40">&#8226;</font> Servicing of Cooling Tower and Conditioner Pump
+            \n\n<font color="#9d1d40">&#8226;</font> Green Technology for Refrigeration and Air Conditioning
+            \n\n<font color="#9d1d40">&#8226;</font> Recovery and Recharging Of Refrigerant </font>
+        <font color="#9d1d40" size="20">\n\nDuration</font><font color="#0000" size="17">\n\n12 Months</font>
+        <font color="#9d1d40" size="20">\n\nNVQ Certificate Level</font><font color="#0000" size="17">\n\nLevel 04</font>
+        <font color="#9d1d40" size="20">\n\nAvailable Centres</font>
+            <font color="#0000" size="17">\n\n<font color="#9d1d40">&#8226;</font> NVTI Vantharmoolai \n</font>
+    </string>
+
+
+    <string name="electro"><font color="#9d1d40" size="20">Introduction</font><font color="#0000" size="17">
+        \n\n<li><ul> The NVQ4 in Electronics is a comprehensive course that equips students with the technical knowledge and practical
+        skills needed to work as competent electronics technicians in various settings. The course covers electronic circuits, digital
+        electronics, microprocessors, communication systems, and instrumentation, as well as safety procedures, electrical regulations, and customer service.</ul></li></font>
+    <font color="#9d1d40" size="20">\n\nEntry Qualifications</font><font color="#0000" size="17">
+            \n\n<li><ul><b>O/Level 6 Passes Included Maths and Science </b> </ul></li></font>
+        <font color="#9d1d40" size="20">\n\nCourse Modules</font><font color="#0000" size="17">
+        \n<font color="#9d1d40" size="20">&#8226;</font> Occupational Safety, Health
+            \n\n<font color="#9d1d40">&#8226;</font> Basic Electricity
+            \n\n<font color="#9d1d40">&#8226;</font> Basic Electronic
+            \n\n<font color="#9d1d40">&#8226;</font> Measure Values Of Electronic Components
+            \n\n<font color="#9d1d40">&#8226;</font> Information Technology
+            \n\n<font color="#9d1d40">&#8226;</font> Test and Replace Electronics Components
+            \n\n<font color="#9d1d40">&#8226;</font> Digital Electronic
+            \n\n<font color="#9d1d40">&#8226;</font> Operational Amplifiers and Application
+            \n\n<font color="#9d1d40">&#8226;</font> Diagnose Faults in Electronic Components
+            \n\n<font color="#9d1d40">&#8226;</font> Repair Power Supply
+            \n\n<font color="#9d1d40">&#8226;</font> Repair Amplifier Stage
+            \n\n<font color="#9d1d40">&#8226;</font> Repair Main System Board
+            \n\n<font color="#9d1d40">&#8226;</font> Rectify Software Issue
+            \n\n<font color="#9d1d40">&#8226;</font> Repair/Replace Wireless Communication Devices
+            \n\n<font color="#9d1d40">&#8226;</font> Install Audio Video System
+            \n\n<font color="#9d1d40">&#8226;</font> Repair Optical Device and Sensors
+            \n\n<font color="#9d1d40">&#8226;</font> Install Satellite Receiver (TVRO)
+            \n\n<font color="#9d1d40">&#8226;</font> Perform Network Configuration
+            \n\n<font color="#9d1d40">&#8226;</font> Repair Display Devices
+            \n\n<font color="#9d1d40">&#8226;</font> Interact With Customer
+            \n\n<font color="#9d1d40">&#8226;</font> Prepare Estimate foe Repair/Service
+            \n\n<font color="#9d1d40">&#8226;</font> Building Career Skills </font>
+        <font color="#9d1d40" size="20">\n\nDuration</font><font color="#0000" size="17">\n\n12 Months</font>
+        <font color="#9d1d40" size="20">\n\nNVQ Certificate Level</font><font color="#0000" size="17">\n\nLevel 04</font>
+        <font color="#9d1d40" size="20">\n\nAvailable Centres</font>
+            <font color="#0000" size="17">\n\n<font color="#9d1d40">&#8226;</font> NVTI Vantharmoolai \n</font>
+    </string>
+
+
+    <string name="wood"><font color="#9d1d40" size="20">Introduction</font><font color="#0000" size="17">
+        \n\n<li><ul>The NVQ4 in Wood Craftsman and Furniture with Aluminum Fabricator is a comprehensive course that focuses on
+        developing practical skills in woodworking, furniture making, and aluminum fabrication. Upon completion, students are
+        equipped with the necessary skills to work as craftsmen and fabricators in the furniture and aluminum industries.
+        The course covers various aspects of woodworking and aluminum fabrication, including design, layout, assembly, finishing, and installation.</ul></li></font>
+    <font color="#9d1d40" size="20">\n\nEntry Qualifications</font><font color="#0000" size="17">
+            \n\n<li><ul><b>O/Level 6 Passes </b> </ul></li></font>
+        <font color="#9d1d40" size="20">\n\nCourse Modules</font><font color="#0000" size="17">
+        \n<font color="#9d1d40" size="20">&#8226;</font> Trade Calculation
+            \n\n<font color="#9d1d40">&#8226;</font> Technical Drawing (Relevant to Wood Technology)
+            \n\n<font color="#9d1d40">&#8226;</font> Use Hand Tool
+            \n\n<font color="#9d1d40">&#8226;</font> Cut Timber/Boards(Basic)
+            \n\n<font color="#9d1d40">&#8226;</font> Cut Timber/Boards(Advanced)
+            \n\n<font color="#9d1d40">&#8226;</font> Plane Timber
+            \n\n<font color="#9d1d40">&#8226;</font> Plane Make and Profile Timber
+            \n\n<font color="#9d1d40">&#8226;</font> Sharpen Carpentry Tools and Maintain Relevant Hand Tools, Basic Power Tools and Machinery
+            \n\n<font color="#9d1d40">&#8226;</font> Drill,Mortise and Tenon Timber
+            \n\n<font color="#9d1d40">&#8226;</font> Make Basic Timber Joints
+            \n\n<font color="#9d1d40">&#8226;</font> Turn Wood
+            \n\n<font color="#9d1d40">&#8226;</font> Fix Accessories
+            \n\n<font color="#9d1d40">&#8226;</font> Prepare Wood Surface(Using Sand Papers)
+            \n\n<font color="#9d1d40">&#8226;</font> Finish Wood Surface
+            \n\n<font color="#9d1d40">&#8226;</font> Spray Wood Surface
+            \n\n<font color="#9d1d40">&#8226;</font> Affix Finished Materials on Wood Surface
+            \n\n<font color="#9d1d40">&#8226;</font> Prepare Estimates
+            \n\n<font color="#9d1d40">&#8226;</font> Make Furniture Using Solid Wood
+            \n\n<font color="#9d1d40">&#8226;</font> Make Furniture Using Wood Based Boards (Wood Based Composite Panel)`  \n\n</font>
+        <font color="#9d1d40" size="20">\n\nDuration</font><font color="#0000" size="17">\n\n12 Months</font>
+        <font color="#9d1d40" size="20">\n\nNVQ Certificate Level</font><font color="#0000" size="17">\n\nLevel 04</font>
+        <font color="#9d1d40" size="20">\n\nAvailable Centres</font>
+            <font color="#0000" size="17">\n\n<font color="#9d1d40">&#8226;</font> NVTI Vantharmoolai </font>
+            <font color="#0000" size="17">\n<font color="#9d1d40">&#8226;</font> VTC Paddipalai </font>
+            <font color="#0000" size="17">\n<font color="#9d1d40">&#8226;</font> VTC Vellavelly \n</font>
+    </string>
+
+    <string name="beauty"><font color="#9d1d40" size="20">Introduction</font><font color="#0000" size="17">
+        \n\n<li><ul>The NVQ4 in Beautician is a comprehensive course that prepares students for a
+        career in the beauty industry. The course covers a range of topics, including skin care,
+        makeup, hair removal, nail care, and body treatments, as well as health and safety, customer service, and product knowledge.</ul></li></font>
+    <font color="#9d1d40" size="20">\n\nEntry Qualifications</font><font color="#0000" size="17">
+            \n\n<li><ul><b>O/Level 6 Passes Included Maths and Science </b> </ul></li></font>
+        <font color="#9d1d40" size="20">\n\nCourse Modules</font><font color="#0000" size="17">
+        \n<font color="#9d1d40" size="20">&#8226;</font> Perform Make-up
+            \n\n<font color="#9d1d40">&#8226;</font> Care Feet and Nails (Pedicure)
+            \n\n<font color="#9d1d40">&#8226;</font> Care Hands and Nails ( Manicure)
+            \n\n<font color="#9d1d40">&#8226;</font> Remove superfluous Hair
+            \n\n<font color="#9d1d40">&#8226;</font> Perform Skin care treatment
+            \n\n<font color="#9d1d40">&#8226;</font> Perform Basic Facial
+            \n\n<font color="#9d1d40">&#8226;</font> Analyze Skin
+            \n\n<font color="#9d1d40">&#8226;</font> Maintain Machinery, Tools and Equipments
+            \n\n<font color="#9d1d40">&#8226;</font> Receive client  and prepare for saloon services
+            \n\n<font color="#9d1d40">&#8226;</font> Maintain safe and pleasant beauty salon environment
+            \n\n<font color="#9d1d40">&#8226;</font> Basic module </font>
+        <font color="#9d1d40" size="20">\n\nDuration</font><font color="#0000" size="17">\n\n06 Months</font>
+        <font color="#9d1d40" size="20">\n\nNVQ Certificate Level</font><font color="#0000" size="17">\n\nLevel 04</font>
+        <font color="#9d1d40" size="20">\n\nAvailable Centres</font>
+            <font color="#0000" size="17">\n\n<font color="#9d1d40">&#8226;</font> NVTI Vantharmoolai </font>
+            <font color="#0000" size="17">\n<font color="#9d1d40">&#8226;</font> VTC Kaluwanchikudy \n</font>
+    </string>
+
+    <string name="haird"><font color="#9d1d40" size="20">Introduction</font><font color="#0000" size="17">
+        \n\n<li><ul> The NVQ4 in Hair Dressing is a comprehensive course that prepares students for a
+        career in the hairdressing industry. The course covers a range of topics, including hair cutting,
+        styling, coloring, and chemical treatments, as well as health and safety, customer service, and product knowledge.</ul></li></font>
+    <font color="#9d1d40" size="20">\n\nEntry Qualifications</font><font color="#0000" size="17">
+            \n\n<li><ul><b>O/Level 6 Passes </b> </ul></li></font>
+        <font color="#9d1d40" size="20">\n\nCourse Modules</font><font color="#0000" size="17">
+        \n<font color="#9d1d40" size="20">&#8226;</font> Receive Clients and Prepare for Salon Services
+            \n\n<font color="#9d1d40">&#8226;</font> Maintain Safe and Pleasant Beauty Salon Environment
+            \n\n<font color="#9d1d40">&#8226;</font> Maintain Machinery Tools, Equipment and Materials
+            \n\n<font color="#9d1d40">&#8226;</font> Basic Module
+            \n\n<font color="#9d1d40">&#8226;</font> Shampoo and conditioner Hair
+            \n\n<font color="#9d1d40">&#8226;</font> Treat Scalped Hair
+            \n\n<font color="#9d1d40">&#8226;</font> Perm Hair
+            \n\n<font color="#9d1d40">&#8226;</font> Straighten Hair
+            \n\n<font color="#9d1d40">&#8226;</font> Cut and Style Hair
+            \n\n<font color="#9d1d40">&#8226;</font> Maintain safe and pleasant beauty salon environment
+            \n\n<font color="#9d1d40">&#8226;</font> Color Hair
+            \n\n<font color="#9d1d40">&#8226;</font> Style Long Hair
+            \n\n<font color="#9d1d40">&#8226;</font> Set Hair (Temporarily)
+            \n\n<font color="#9d1d40">&#8226;</font> Use of Wigs
+            \n\n<font color="#9d1d40">&#8226;</font> Provide advice and promote hair products and services</font>
+        <font color="#9d1d40" size="20">\n\nDuration</font><font color="#0000" size="17">\n\n06 Months</font>
+        <font color="#9d1d40" size="20">\n\nNVQ Certificate Level</font><font color="#0000" size="17">\n\nLevel 04</font>
+        <font color="#9d1d40" size="20">\n\nAvailable Centres</font>
+            <font color="#0000" size="17">\n\n<font color="#9d1d40">&#8226;</font> NVTI Vantharmoolai </font>
+            <font color="#0000" size="17">\n<font color="#9d1d40">&#8226;</font> VTC Kaluwanchikudy \n</font>
+    </string>
+
+    <string name="autot"><font color="#9d1d40" size="20">Introduction</font><font color="#0000" size="17">
+        \n\n<li><ul> The NVQ4 in Automobile Technician is a comprehensive course that prepares students for a
+        career in the automotive industry. The course covers various aspects of vehicle maintenance, including
+        engine repair, electrical systems, suspension, steering, and brakes, as well as safety procedures, customer service, and environmental regulations. </ul></li></font>
+    <font color="#9d1d40" size="20">\n\nEntry Qualifications</font><font color="#0000" size="17">
+            \n\n<li><ul><b>O/Level 6 Passes Included Maths and Science </b> </ul></li></font>
+        <font color="#9d1d40" size="20">\n\nCourse Modules</font><font color="#0000" size="17">
+        \n<font color="#9d1d40" size="20">&#8226;</font> Workshop Safety and Health
+            \n\n<font color="#9d1d40">&#8226;</font> Technical Mathematics And Technology
+            \n\n<font color="#9d1d40">&#8226;</font> Workshop Technology
+            \n\n<font color="#9d1d40">&#8226;</font> Technical Drawings
+            \n\n<font color="#9d1d40">&#8226;</font> Fundamentals Of Electrical And Electronic
+            \n\n<font color="#9d1d40">&#8226;</font> Fundamentals Of Automobile
+            \n\n<font color="#9d1d40">&#8226;</font> Automobile Engines
+            \n\n<font color="#9d1d40">&#8226;</font> Engine System
+            \n\n<font color="#9d1d40">&#8226;</font> Petrol And Diesel Fuel System
+            \n\n<font color="#9d1d40">&#8226;</font> Conventional And Breaker Less Ignition System
+            \n\n<font color="#9d1d40">&#8226;</font> Petrol Electronic Fuel Injection System
+            \n\n<font color="#9d1d40">&#8226;</font> Diesel Electronic Fuel Injection System
+            \n\n<font color="#9d1d40">&#8226;</font> Power Train System I
+            \n\n<font color="#9d1d40">&#8226;</font> Power Train System II
+            \n\n<font color="#9d1d40">&#8226;</font> Manual And Power Assisted Steering System
+            \n\n<font color="#9d1d40">&#8226;</font> Conventional And Electronically Controlled Suspension System
+            \n\n<font color="#9d1d40">&#8226;</font> Hydraulic And Pneumatic Braking System
+            \n\n<font color="#9d1d40">&#8226;</font> Electronically Controlled Braking System
+            \n\n<font color="#9d1d40">&#8226;</font> Hub Mounting Wheels And Tire
+            \n\n<font color="#9d1d40">&#8226;</font> Wheel Balancing And Wheel Alignment
+            \n\n<font color="#9d1d40">&#8226;</font> Vehicle Electrical And Electronic System
+            \n\n<font color="#9d1d40">&#8226;</font> Passenger Safety And Vehicle Security System
+            \n\n<font color="#9d1d40">&#8226;</font> Engine Overhauling
+            \n\n<font color="#9d1d40">&#8226;</font> Engine Fault Troubleshooting
+            \n\n<font color="#9d1d40">&#8226;</font> Automobile Pollution And Control
+            \n\n<font color="#9d1d40">&#8226;</font> Hybrid Vehicle System
+            \n\n<font color="#9d1d40">&#8226;</font> Electric Vehicle </font>
+        <font color="#9d1d40" size="20">\n\nDuration</font><font color="#0000" size="17">\n\n12 Months</font>
+        <font color="#9d1d40" size="20">\n\nNVQ Certificate Level</font><font color="#0000" size="17">\n\nLevel 04</font>
+        <font color="#9d1d40" size="20">\n\nAvailable Centres</font>
+            <font color="#0000" size="17">\n\n<font color="#9d1d40">&#8226;</font> NVTI Vantharmoolai \n</font>
+    </string>
+
+    <string name="mason"><font color="#9d1d40" size="20">Introduction</font><font color="#0000" size="17">
+        \n\n<li><ul> The NVQ4 in Masonry prepares you for a career as a skilled mason in various settings </ul></li></font>
+    <font color="#9d1d40" size="20">\n\nEntry Qualifications</font><font color="#0000" size="17">
+            \n\n<li><ul><b>O/Level 6 Passes </b> </ul></li></font>
+        <font color="#9d1d40" size="20">\n\nCourse Modules</font><font color="#0000" size="17">
+        \n<font color="#9d1d40" size="20">&#8226;</font> Communication Skills for Workplace
+            \n\n<font color="#9d1d40">&#8226;</font> Workshop Calculation and Science
+            \n\n<font color="#9d1d40">&#8226;</font> Occupational Safety and Health
+            \n\n<font color="#9d1d40">&#8226;</font> Team Work
+            \n\n<font color="#9d1d40">&#8226;</font> Construction Tools and Equipments
+            \n\n<font color="#9d1d40">&#8226;</font> Introduction to Role of Construction Worker
+            \n\n<font color="#9d1d40">&#8226;</font> Preparation of Cement Mortars and Concrete Mixtures
+            \n\n<font color="#9d1d40">&#8226;</font> Construction of Cement Block Walls
+            \n\n<font color="#9d1d40">&#8226;</font> Construction of Concrete Structures
+            \n\n<font color="#9d1d40">&#8226;</font> Construction Brick Walls
+            \n\n<font color="#9d1d40">&#8226;</font> Constructions of Corners and Junctions of Brick Walls
+            \n\n<font color="#9d1d40">&#8226;</font> Construction of Special Shape Brick Structures
+            \n\n<font color="#9d1d40">&#8226;</font> Construction of Rubble Masonry Structures
+            \n\n<font color="#9d1d40">&#8226;</font> Plastering Work
+            \n\n<font color="#9d1d40">&#8226;</font> Perform Shuttering and Reinforcements
+            \n\n<font color="#9d1d40">&#8226;</font> Rendering  of Structures
+            \n\n<font color="#9d1d40">&#8226;</font> Settings Out of Structures
+            \n\n<font color="#9d1d40">&#8226;</font> Erecting of Scaffolding
+            \n\n<font color="#9d1d40">&#8226;</font> Ornamental Working Construction
+            \n\n<font color="#9d1d40">&#8226;</font> Miscellanies Masonry Work
+            \n\n<font color="#9d1d40">&#8226;</font> Make Cost Estimate </font>
+        <font color="#9d1d40" size="20">\n\nDuration</font><font color="#0000" size="17">\n\n12 Months</font>
+        <font color="#9d1d40" size="20">\n\nNVQ Certificate Level</font><font color="#0000" size="17">\n\nLevel 04</font>
+        <font color="#9d1d40" size="20">\n\nAvailable Centres</font>
+           <font color="#0000" size="17">\n\n<font color="#9d1d40">&#8226;</font> NVTI Vantharmoolai </font>
+            <font color="#0000" size="17">\n<font color="#9d1d40">&#8226;</font> VTC Kiran </font>
+            <font color="#0000" size="17">\n<font color="#9d1d40">&#8226;</font> VTC Paddipalai \n</font>
+    </string>
+
+    <string name="elctricalt"><font color="#9d1d40" size="20">Introduction</font><font color="#0000" size="17">
+        \n\n<li><ul> The NVQ4 in Electrical is a comprehensive course that equips students with the technical
+        knowledge and practical skills needed to work as competent electricians in various settings.
+        The course covers installation, repair, and maintenance of electrical systems, as well as
+        safety procedures, electrical regulations, and customer service.</ul></li></font>
+    <font color="#9d1d40" size="20">\n\nEntry Qualifications</font><font color="#0000" size="17">
+            \n\n<li><ul><b>O/Level 6 Passes Included Maths and Science </b> </ul></li></font>
+        <font color="#9d1d40" size="20">\n\nCourse Modules</font><font color="#0000" size="17">
+        \n\n<font color="#9d1d40" size="20">&#8226;</font> Communication Skills for Workplace
+            \n\n<font color="#9d1d40">&#8226;</font> Workshop Calculation and Science
+            \n\n<font color="#9d1d40">&#8226;</font> Team Work
+            \n\n<font color="#9d1d40">&#8226;</font> Occupational Safety and Health
+            \n\n<font color="#9d1d40">&#8226;</font> Basic Workshop Practice
+            \n\n<font color="#9d1d40">&#8226;</font> Principles of Electricity
+            \n\n<font color="#9d1d40">&#8226;</font> Draw Wiring Diagrams
+            \n\n<font color="#9d1d40">&#8226;</font> Make Low Voltage (LV) Electric Cable Joins
+            \n\n<font color="#9d1d40">&#8226;</font> Carry Out Electrical Installations in Buildings
+            \n\n<font color="#9d1d40">&#8226;</font> Repair and Maintain Electrical Appliances and Equipment
+            \n\n<font color="#9d1d40">&#8226;</font> Inspect,Test,Diagnose and Repair Falls in Electrical Installations of Buildings
+            \n\n<font color="#9d1d40">&#8226;</font> Prepare Cost Estimate
+            \n\n<font color="#9d1d40">&#8226;</font> Carry Out Industrial Electrical Installations
+            \n\n<font color="#9d1d40">&#8226;</font> Assemble LV Distribution Boards
+            \n\n<font color="#9d1d40">&#8226;</font> Install, Repair and Maintain Electrical Control Circuits and Equipments
+            \n\n<font color="#9d1d40">&#8226;</font> Repair and Maintain Electrical Control Circuits and Equipments II
+            \n\n<font color="#9d1d40">&#8226;</font> Maintain and Repair of Electric Motors
+            \n\n<font color="#9d1d40">&#8226;</font> Maintain and Repair Standard Generators and LV Transformers
+            \n\n<font color="#9d1d40">&#8226;</font> Carry Out Commissioning Maintaining and Decommissioning of IIndustrial Electrical Installation
+            \n\n<font color="#9d1d40">&#8226;</font> Install and Maintain Programmable Logic Controllers (PLC)
+            \n\n<font color="#9d1d40">&#8226;</font> Proposal Preparation for IOT Based Automation Requirements
+            \n\n<font color="#9d1d40">&#8226;</font> Installation and Maintenance Work </font>
+        <font color="#9d1d40" size="20">\n\nDuration</font><font color="#0000" size="17">\n\n12 Months</font>
+        <font color="#9d1d40" size="20">\n\nNVQ Certificate Level</font><font color="#0000" size="17">\n\nLevel 04</font>
+        <font color="#9d1d40" size="20">\n\nAvailable Centres</font>
+            <font color="#0000" size="17">\n\n<font color="#9d1d40">&#8226;</font> NVTI Vantharmoolai </font>
+            <font color="#0000" size="17">\n<font color="#9d1d40">&#8226;</font> VTC Kaluwanchikudy </font>
+            <font color="#0000" size="17">\n<font color="#9d1d40">&#8226;</font> VTC Paddipalai \n</font>
+    </string>
+
+
+    <string name="agri"><font color="#9d1d40" size="20">Introduction</font>
+        <font color="#0000" size="17">
+        \n\n<li><ul>The NVQ4 in Agriculture is a comprehensive course that prepares students for a
+        career in the agriculture industry. The course covers various aspects of such as farming, including crop production,
+        livestock management, soil management, irrigation, and pest control, as well as safety procedures, environmental regulations, and business management.</ul></li></font>
+    <font color="#9d1d40" size="20">\n\nEntry Qualifications</font><font color="#0000" size="17">
+            \n\n<li><ul><b>O/Level 6 Passes Included Maths and Science</b> </ul></li></font>
+        <font color="#9d1d40" size="20">\n\nCourse Modules</font><font color="#0000" size="17">
+        \n\n<font color="#9d1d40" size="20">&#8226;</font> Fundamentals of Agriculture
+            \n\n<font color="#9d1d40">&#8226;</font> Establishment and maintenance of Paddy and other cereals
+            \n\n<font color="#9d1d40">&#8226;</font> Establishment and maintenance of other field crops(OFC)
+            \n\n<font color="#9d1d40">&#8226;</font> Establishment and maintenance of Horticultural crops
+            \n\n<font color="#9d1d40">&#8226;</font> Harvesting and primary processing
+            \n\n<font color="#9d1d40">&#8226;</font> Maintenance of farm Machineries, Equipment and Tools
+            \n\n<font color="#9d1d40">&#8226;</font> Implementation of Agricultural Extension Programme
+            \n\n<font color="#9d1d40">&#8226;</font> Communication Skills for Workplace
+            \n\n<font color="#9d1d40">&#8226;</font> Language Literacy and Numeracy
+            \n\n<font color="#9d1d40">&#8226;</font> Team Work
+            \n\n<font color="#9d1d40">&#8226;</font> Occupational Health and Safety Procedures and Practice </font>
+        <font color="#9d1d40" size="20">\n\nDuration</font><font color="#0000" size="17">\n\n06 Months</font>
+        <font color="#9d1d40" size="20">\n\nNVQ Certificate Level</font><font color="#0000" size="17">\n\nLevel 04</font>
+        <font color="#9d1d40" size="20">\n\nAvailable Centres</font>
+            <font color="#0000" size="17">\n\n<font color="#9d1d40">&#8226;</font> NVTI Vantharmoolai \n</font>
+    </string>
+
+
+    <string name="cgd"><font color="#9d1d40" size="20">Introduction</font><font color="#0000" size="17">
+        \n\n<li><ul> The Computer Graphics Design NVQ Level 4 course provides advanced training for individuals who want to
+        specialize in graphic design, digital art, and multimedia. Students will gain knowledge and skills in
+        designing creative visual communication using industry-standard software and tools.</ul></li></font>
+    <font color="#9d1d40" size="20">\n\nEntry Qualifications</font><font color="#0000" size="17">
+            \n\n<li><ul><b>NVQ Level 3</b> OR <b>O/Level 6 Credit Pass Included Science,Maths and English</b></ul></li></font>
+        <font color="#9d1d40" size="20">\n\nCourse Modules</font>
+        <font color="#0000" size="17">
+            \n\n<font color="#9d1d40" size="20">&#8226;</font> Introduction to Graphic Design
+            \n\n<font color="#9d1d40">&#8226;</font> Introduction to computer hardware and software
+            \n\n<font color="#9d1d40">&#8226;</font> Color Theory and Input Images
+            \n\n<font color="#9d1d40">&#8226;</font> Visual media technology fundamentals
+            \n\n<font color="#9d1d40">&#8226;</font> Creative thinking and sketching
+            \n\n<font color="#9d1d40">&#8226;</font> Typography
+            \n\n<font color="#9d1d40">&#8226;</font> Edit and manipulate images
+            \n\n<font color="#9d1d40">&#8226;</font> Illustrations
+            \n\n<font color="#9d1d40">&#8226;</font> Layout Designing
+            \n\n<font color="#9d1d40">&#8226;</font> Design layout for web and other types of multimedia
+            \n\n<font color="#9d1d40">&#8226;</font> Communication skills for workplace
+            \n\n<font color="#9d1d40">&#8226;</font> Workplace calculation and science
+            \n\n<font color="#9d1d40">&#8226;</font> Team work
+            \n\n<font color="#9d1d40">&#8226;</font> Occupational safety and health and environmental aspects
+        </font>
+        <font color="#9d1d40" size="20">\n\nDuration</font><font color="#0000" size="17">\n\n06 Months</font>
+        <font color="#9d1d40" size="20">\n\nNVQ Certificate Level</font><font color="#0000" size="17">\n\nLevel 04</font>
+        <font color="#9d1d40" size="20">\n\nAvailable Centres</font>
+            <font color="#0000" size="17">\n\n<font color="#9d1d40">&#8226;</font> VTC Arayampathy \n</font>
+    </string>
+
+
+    <string name="bake"><font color="#9d1d40" size="20">Introduction</font><font color="#0000" size="17">
+        \n\n<li><ul>The Baker NVQ Level 4 course provides specialized training for individuals who want to become professional bakers.
+        Students will learn the art of making a variety of baked goods, including bread, cakes, and pastries,
+        as well as proper food handling and safety practices</ul></li></font>
+    <font color="#9d1d40" size="20">\n\nEntry Qualifications</font><font color="#0000" size="17">
+            \n\n<li><ul><b>Grade 10th or 11th</b> </ul></li></font>
+        <font color="#9d1d40" size="20">\n\nCourse Modules</font>
+        <font color="#0000" size="17">
+            \n\n<font color="#9d1d40">&#8226;</font> Hygiene and Safety for Bakery Functions
+            \n\n<font color="#9d1d40">&#8226;</font> Preparation of Bread and Buns
+            \n\n<font color="#9d1d40">&#8226;</font> Preparation of pastries
+            \n\n<font color="#9d1d40">&#8226;</font> Preparation of Desserts
+            \n\n<font color="#9d1d40">&#8226;</font> Preparation of cake
+            \n\n<font color="#9d1d40">&#8226;</font> Preparation of cookies
+            \n\n<font color="#9d1d40">&#8226;</font> Routine functions of a pastry and bakery
+            \n\n<font color="#9d1d40">&#8226;</font> Communication Skills for Workplace
+            \n\n<font color="#9d1d40">&#8226;</font> Occupational Health and Safety
+            \n\n<font color="#9d1d40">&#8226;</font> Team Work
+            \n\n<font color="#9d1d40">&#8226;</font> Language literacy
+        </font>
+        <font color="#9d1d40" size="20">\n\nDuration</font><font color="#0000" size="17">\n\n06 Months</font>
+        <font color="#9d1d40" size="20">\n\nNVQ Certificate Level</font><font color="#0000" size="17">\n\nLevel 04</font>
+        <font color="#9d1d40" size="20">\n\nAvailable Centres</font>
+            <font color="#0000" size="17">\n\n<font color="#9d1d40">&#8226;</font> VTC Kaluwanchikudy \n</font>
+    </string>
+
+
+    <string name="alu"><font color="#9d1d40" size="20">Introduction</font><font color="#0000" size="17">
+        \n\n<li><ul> The Aluminum Fabricator NVQ Level 4 course provides specialized training for individuals who
+        want to become professional fabricators. Students will learn how to cut, shape, and assemble aluminum materials to
+        create various products such as doors, windows, and frames, using advanced tools and techniques. </ul></li></font>
+    <font color="#9d1d40" size="20">\n\nEntry Qualifications</font><font color="#0000" size="17">
+            \n\n<li><ul><b>Grade 10th or 11th</b> </ul></li></font>
+        <font color="#9d1d40" size="20">\n\nCourse Modules</font>
+        <font color="#0000" size="17">
+            \n\n<font color="#9d1d40">&#8226;</font> Communication Skills for Workplace
+            \n\n<font color="#9d1d40">&#8226;</font> Workshop Calculation and Science
+            \n\n<font color="#9d1d40">&#8226;</font> Team Work
+            \n\n<font color="#9d1d40">&#8226;</font> Occupational Safety and Health
+            \n\n<font color="#9d1d40">&#8226;</font> General Workshop Practices
+            \n\n<font color="#9d1d40">&#8226;</font> Geometrical Drawings
+            \n\n<font color="#9d1d40">&#8226;</font> Fabricating Shop Front
+            \n\n<font color="#9d1d40">&#8226;</font> Fabricating Sliding Doors and Windows
+            \n\n<font color="#9d1d40">&#8226;</font> Fabricating Casement Windows
+            \n\n<font color="#9d1d40">&#8226;</font> Fabricating Louvre Frames
+            \n\n<font color="#9d1d40">&#8226;</font> Fabricating Partitions
+            \n\n<font color="#9d1d40">&#8226;</font> Fabricating Hinged and Swing Doors
+            \n\n<font color="#9d1d40">&#8226;</font> Fabricating Suspension Ceilings
+            \n\n<font color="#9d1d40">&#8226;</font> Fabricating running ladders
+            \n\n<font color="#9d1d40">&#8226;</font> Fabricating Step Ladders
+            \n\n<font color="#9d1d40">&#8226;</font> Fabricating showcases
+            \n\n<font color="#9d1d40">&#8226;</font> Fabricating Shower Cubicles
+            \n\n<font color="#9d1d40">&#8226;</font> Fabricating Sky Light and Canopy
+            \n\n<font color="#9d1d40">&#8226;</font> Installing Composite Panel Cladding
+            \n\n<font color="#9d1d40">&#8226;</font> Fabricating and Installing Roller Shutter and Roller door
+            \n\n<font color="#9d1d40">&#8226;</font> Fabricating Curtain Walls
+            \n\n<font color="#9d1d40">&#8226;</font> Installing tempered Glasses and Doors
+            \n\n<font color="#9d1d40">&#8226;</font> Fabricating Pantry cupboard
+        </font>
+        <font color="#9d1d40" size="20">\n\nDuration</font><font color="#0000" size="17">\n\n06 Months</font>
+        <font color="#9d1d40" size="20">\n\nNVQ Certificate Level</font><font color="#0000" size="17">\n\nLevel 04</font>
+        <font color="#9d1d40" size="20">\n\nAvailable Centres</font>
+            <font color="#0000" size="17">\n\n<font color="#9d1d40">&#8226;</font> VTC Kaluwanchikudy </font>
+            <font color="#0000" size="17">\n<font color="#9d1d40">&#8226;</font> VTC Valaichchenai \n</font>
+    </string>
+
+
+    <string name="plumber"><font color="#9d1d40" size="20">Introduction</font><font color="#0000" size="17">
+        \n\n<li><ul> The Plumber NVQ Level 4 course provides specialized training for individuals who want to become professional plumbers.
+        Students will learn how to install and maintain plumbing systems, including water supply, drainage, and heating, as well as
+        how to follow industry-standard safety practices. </ul></li></font>
+    <font color="#9d1d40" size="20">\n\nEntry Qualifications</font><font color="#0000" size="17">
+            \n\n<li><ul><b>Grade 10th or 11th</b> </ul></li></font>
+        <font color="#9d1d40" size="20">\n\nCourse Modules</font>
+        <font color="#0000" size="17">
+            \n\n<font color="#9d1d40">&#8226;</font> Job role and carrier skill in Plumbing and plumbing maintenance
+            \n\n<font color="#9d1d40">&#8226;</font> Communication skills for workplace
+            \n\n<font color="#9d1d40">&#8226;</font> Workshop calculation and Science
+            \n\n<font color="#9d1d40">&#8226;</font> Occupational Safety and Health
+            \n\n<font color="#9d1d40">&#8226;</font> Team work
+            \n\n<font color="#9d1d40">&#8226;</font> Simple Masonry work
+            \n\n<font color="#9d1d40">&#8226;</font> Lay Non-metal Pipelines
+            \n\n<font color="#9d1d40">&#8226;</font> Fix Taps, Valves and Other Fittings
+            \n\n<font color="#9d1d40">&#8226;</font> Lay Hot Water Pipelines and Fix Fittings
+            \n\n<font color="#9d1d40">&#8226;</font> Fix Rain Water System
+            \n\n<font color="#9d1d40">&#8226;</font> Lay Soil and Drainage Pipes
+            \n\n<font color="#9d1d40">&#8226;</font> Fix Common Sanitary Fittings and Accessories
+            \n\n<font color="#9d1d40">&#8226;</font> Fix Sanitary and Drainage Fittings
+            \n\n<font color="#9d1d40">&#8226;</font> Prepare Metal Pipelines
+            \n\n<font color="#9d1d40">&#8226;</font> Lay Metal Pipelines and Fix Fittings
+            \n\n<font color="#9d1d40">&#8226;</font> Fix Water Pump System
+            \n\n<font color="#9d1d40">&#8226;</font> Repair and Maintenance Sewerage and Drainage Systems
+            \n\n<font color="#9d1d40">&#8226;</font> Prepare Estimates
+        </font>
+        <font color="#9d1d40" size="20">\n\nDuration</font><font color="#0000" size="17">\n\n06 Months</font>
+        <font color="#9d1d40" size="20">\n\nNVQ Certificate Level</font><font color="#0000" size="17">\n\nLevel 03</font>
+        <font color="#9d1d40" size="20">\n\nAvailable Centres</font>
+            <font color="#0000" size="17">\n\n<font color="#9d1d40">&#8226;</font> VTC Kaluwanchikudy </font>
+            <font color="#0000" size="17">\n<font color="#9d1d40">&#8226;</font> VTC Kiran </font>
+            <font color="#0000" size="17">\n<font color="#9d1d40">&#8226;</font> VTC Vaharai </font>
+            <font color="#0000" size="17">\n<font color="#9d1d40">&#8226;</font> VTC Vavunathivu \n</font>
+    </string>
+
+
+    <string name="tailor"><font color="#9d1d40" size="20">Introduction</font><font color="#0000" size="17">
+        \n\n<li><ul>The Professional Tailor Ladies\' and Children\'s NVQ Level 4 course provides specialized training for individuals
+        who want to become professional tailors, with a focus on women\'s and children\'s clothing. Students will learn how to create
+        customized patterns, cut fabrics, and use various sewing techniques to create high-quality garments that meet client specifications. </ul></li></font>
+    <font color="#9d1d40" size="20">\n\nEntry Qualifications</font><font color="#0000" size="17">
+            \n\n<li><ul><b>Grade 10th or 11th</b> </ul></li></font>
+        <font color="#9d1d40" size="20">\n\nCourse Modules</font>
+        <font color="#0000" size="17">
+            \n\n<font color="#9d1d40">&#8226;</font> Introduction to tailoring
+            \n\n<font color="#9d1d40">&#8226;</font> Tailoring materials/fabrics and accessories
+            \n\n<font color="#9d1d40">&#8226;</font> Operation and maintenance of machinery, tools and equipment use in tailoring
+            \n\n<font color="#9d1d40">&#8226;</font> Procedure for taking body Measurement
+            \n\n<font color="#9d1d40">&#8226;</font> Pattern drafting in tailoring
+            \n\n<font color="#9d1d40">&#8226;</font> Fabric pre-preparation for cut and sew
+            \n\n<font color="#9d1d40">&#8226;</font> Draft and cut different styles of Ladies garment
+            \n\n<font color="#9d1d40">&#8226;</font> Sewing techniques
+            \n\n<font color="#9d1d40">&#8226;</font> Sewing methods for different stylesLadies
+            \n\n<font color="#9d1d40">&#8226;</font> Draft and cut different styles of Gents garment
+            \n\n<font color="#9d1d40">&#8226;</font> Sewing methods for different stylesGents
+            \n\n<font color="#9d1d40">&#8226;</font> Draft, Cut and sew coat and waist coat
+            \n\n<font color="#9d1d40">&#8226;</font> Finish the garment
+            \n\n<font color="#9d1d40">&#8226;</font> Preparation of order
+            \n\n<font color="#9d1d40">&#8226;</font> Practice workplace communication and interpersonal relations
+            \n\n<font color="#9d1d40">&#8226;</font> Apply occupational literacy and numeracy
+            \n\n<font color="#9d1d40">&#8226;</font> Work in team
+            \n\n<font color="#9d1d40">&#8226;</font> Practice occupational health and safety measures
+        </font>
+        <font color="#9d1d40" size="20">\n\nDuration</font><font color="#0000" size="17">\n\n06 Months</font>
+        <font color="#9d1d40" size="20">\n\nNVQ Certificate Level</font><font color="#0000" size="17">\n\nLevel 03</font>
+        <font color="#9d1d40" size="20">\n\nAvailable Centres</font>
+            <font color="#0000" size="17">\n\n<font color="#9d1d40">&#8226;</font> VTC Arayampathy</font>
+            <font color="#0000" size="17">\n<font color="#9d1d40">&#8226;</font> VTC Onthachimadam \n</font>
+    </string>
+
+
+    <string name="wheel"><font color="#9d1d40" size="20">Introduction</font><font color="#0000" size="17">
+        \n\n<li><ul>The Three Wheel Mechanic NVQ Level 3 course provides specialized training
+        for individuals who want to become professional mechanics for three-wheeled vehicles. Students will
+        learn how to diagnose and repair mechanical issues, as well as how to maintain these vehicles to keep them in optimal condition.</ul></li></font>
+    <font color="#9d1d40" size="20">\n\nEntry Qualifications</font><font color="#0000" size="17">
+            \n\n<li><ul><b>Grade 10th or 11th</b> </ul></li></font>
+        <font color="#9d1d40" size="20">\n\nCourse Modules</font>
+        <font color="#0000" size="17">
+            \n\n<font color="#9d1d40">&#8226;</font> Communication skills for workplace
+            \n\n<font color="#9d1d40">&#8226;</font> Workshop calculation and Science
+            \n\n<font color="#9d1d40">&#8226;</font> Work in teams
+            \n\n<font color="#9d1d40">&#8226;</font> Occupational Health and Safety Procedures and Practice
+            \n\n<font color="#9d1d40">&#8226;</font> Steering System
+            \n\n<font color="#9d1d40">&#8226;</font> Break system
+            \n\n<font color="#9d1d40">&#8226;</font> Suspension system
+            \n\n<font color="#9d1d40">&#8226;</font> Electrical system
+            \n\n<font color="#9d1d40">&#8226;</font> Ignition system
+            \n\n<font color="#9d1d40">&#8226;</font> Engine
+            \n\n<font color="#9d1d40">&#8226;</font> Transmission system
+            \n\n<font color="#9d1d40">&#8226;</font> Fuel and air intake system
+        </font>
+        <font color="#9d1d40" size="20">\n\nDuration</font><font color="#0000" size="17">\n\n06 Months</font>
+        <font color="#9d1d40" size="20">\n\nNVQ Certificate Level</font><font color="#0000" size="17">\n\nLevel 03</font>
+        <font color="#9d1d40" size="20">\n\nAvailable Centres</font>
+            <font color="#0000" size="17">\n\n<font color="#9d1d40">&#8226;</font> VTC Onthachimadam </font>
+            <font color="#0000" size="17">\n<font color="#9d1d40">&#8226;</font> VTC Vaharai \n</font>
+    </string>
+
+    <string name="eng"><font color="#9d1d40" size="20">Introduction</font><font color="#0000" size="17">
+        \n\n<li><ul> The Certificate in English Language provided by the Vocational Training Authority (VTA)
+        is designed for individuals who want to improve their English language skills. This certificate program
+        focuses on developing proficiency in reading, writing, listening, and speaking English, with an emphasis on
+        practical usage in both personal and professional settings.</ul></li></font>
+    <font color="#9d1d40" size="20">\n\nEntry Qualifications</font><font color="#0000" size="17">
+            \n\n<li><ul><b>No</b> </ul></li></font>
+        <font color="#9d1d40" size="20">\n\nCourse Modules</font>
+            \n\n<font color="#9d1d40">&#8226;</font> Basic Grammar
+        <font color="#0000" size="17">
+        </font>
+        <font color="#9d1d40" size="20">\n\nDuration</font><font color="#0000" size="17">\n\n150hrs</font>
+        <font color="#9d1d40" size="20">\n\nNVQ Certificate Level</font><font color="#0000" size="17">\n\nCertificate In English Language-VTA</font>
+        <font color="#9d1d40" size="20">\n\nAvailable Centres</font>
+            <font color="#0000" size="17">\n\n<font color="#9d1d40">&#8226;</font> NVTI Vantharmoolai \n</font>
+    </string>
+
+
+    <string name="elec3"><font color="#9d1d40" size="20">Introduction</font><font color="#0000" size="17">
+        \n\n<li><ul> The Electrical - Domestics NVQ Level 3 course provides specialized training for individuals who
+        want to become professional electricians in the domestic sector. Students will learn how to install,
+        repair and maintain electrical systems and equipment in residential buildings, with a
+        focus on safety and compliance with industry standards.</ul></li></font>
+    <font color="#9d1d40" size="20">\n\nEntry Qualifications</font><font color="#0000" size="17">
+            \n\n<li><ul><b>Grade 10th or 11th</b> </ul></li></font>
+        <font color="#9d1d40" size="20">\n\nCourse Modules</font>
+        <font color="#0000" size="17">
+            \n\n<font color="#9d1d40">&#8226;</font> Communication skills for workplace
+            \n\n<font color="#9d1d40">&#8226;</font> Workshop Calculation and Science
+            \n\n<font color="#9d1d40">&#8226;</font> Team Work
+            \n\n<font color="#9d1d40">&#8226;</font> Occupational Health and Safety
+            \n\n<font color="#9d1d40">&#8226;</font> Basic Workshop Practice
+            \n\n<font color="#9d1d40">&#8226;</font> Principles of Electricity
+            \n\n<font color="#9d1d40">&#8226;</font> Draw Wiring Diagrams
+            \n\n<font color="#9d1d40">&#8226;</font> Make Low Voltage (LV) Electric cable joints
+            \n\n<font color="#9d1d40">&#8226;</font> Carry out electrical Installation in buildings
+            \n\n<font color="#9d1d40">&#8226;</font> Repair and maintain electrical appliances and equipment
+            \n\n<font color="#9d1d40">&#8226;</font> Inspect, test, diagnose and repair faults in electrification\'s of buildings
+            \n\n<font color="#9d1d40">&#8226;</font> Prepare Cost Estimates
+            \n\n<font color="#9d1d40">&#8226;</font> Carry out industrial electrical Installations
+            \n\n<font color="#9d1d40">&#8226;</font> Assemble LV distribution boards 
+            \n\n<font color="#9d1d40">&#8226;</font> Install, repair and maintain electrical control circuits and equipment
+            \n\n<font color="#9d1d40">&#8226;</font> Repair and maintain electrical appliances and equipment
+            \n\n<font color="#9d1d40">&#8226;</font> Maintain and repair of electric motors
+            \n\n<font color="#9d1d40">&#8226;</font> Maintain and repair standby generators and LV transformers
+            \n\n<font color="#9d1d40">&#8226;</font> Carry out commissioning, maintaining and decommissioning of industrial electrical installations
+            \n\n<font color="#9d1d40">&#8226;</font> Install and maintain Programmable Logic Controllers (PLC)
+            \n\n<font color="#9d1d40">&#8226;</font> Proposal preparation for IOT based automation requirements
+            \n\n<font color="#9d1d40">&#8226;</font> Installation and Maintenance work
+        </font>
+        <font color="#9d1d40" size="20">\n\nDuration</font><font color="#0000" size="17">\n\n 06 Months</font>
+        <font color="#9d1d40" size="20">\n\nNVQ Certificate Level</font><font color="#0000" size="17">\n\nNVQ Level 03</font>
+        <font color="#9d1d40" size="20">\n\nAvailable Centres</font>
+            <font color="#0000" size="17">\n\n<font color="#9d1d40">&#8226;</font> VTC Kaluwanchikudy </font>
+            <font color="#0000" size="17">\n<font color="#9d1d40">&#8226;</font> VTC Kattankudy  \n</font>
+    </string>
+
+
+    <string name="ictt">Introduction</string>
+    <string name="electronics">Introduction</string>
+    <string name="cnc">Introduction</string>
+    <string name="machinist">Introduction</string>
+
+
+    <string name="nvtivan"><font color="#9d1d40" size="20">Available Courses</font>
+        <font color="#0000" size="17">
+            \n\n<font color="#9d1d40">&#8226;</font> NDICT (Level-5)
+            \n<font color="#9d1d40">&#8226;</font> ICTT (Level-4)
+            \n<font color="#9d1d40">&#8226;</font> Auto Mobile Mechanic (Level-4)
+            \n<font color="#9d1d40">&#8226;</font> CNC (Level-4)
+            \n<font color="#9d1d40">&#8226;</font> A/C Technician (Level-4)
+            \n<font color="#9d1d40">&#8226;</font> Electrician (Level-4)
+            \n<font color="#9d1d40">&#8226;</font> Quantity Surveying (Level-5)
+            \n<font color="#9d1d40">&#8226;</font> Agriculture (Level-4)
+            \n<font color="#9d1d40">&#8226;</font> Mesentery (Level-4)
+            \n<font color="#9d1d40">&#8226;</font> Beautician (Level-4)
+            \n<font color="#9d1d40">&#8226;</font> Hair Dresser (Level-4)
+            \n<font color="#9d1d40">&#8226;</font> Machinist (Level-4)
+            \n<font color="#9d1d40">&#8226;</font> Electronics (Level-4)
+            \n<font color="#9d1d40">&#8226;</font> Wood Craftsmen (Level-4)
+        </font>
+    </string>
+
+    <string name="vtcon"><font color="#9d1d40" size="20">Available Courses</font>
+        <font color="#0000" size="17">
+            \n\n<font color="#9d1d40">&#8226;</font> Three Wheeler Mechanic (Level-4)
+            \n<font color="#9d1d40">&#8226;</font> Professional Tailor (Level-4)
+        </font>
+    </string>
+
+    <string name="vtckalu"><font color="#9d1d40" size="20">Available Courses</font>
+        <font color="#0000" size="17">
+            \n\n<font color="#9d1d40">&#8226;</font> ICTT (Level-4)
+            \n<font color="#9d1d40">&#8226;</font> Hair Dresser (Level-4)
+            \n<font color="#9d1d40">&#8226;</font> Beautician (Level-4)
+            \n<font color="#9d1d40">&#8226;</font> Plumber (Level-4)
+            \n<font color="#9d1d40">&#8226;</font> Electrician-Domestic (Level-3)
+            \n<font color="#9d1d40">&#8226;</font> Baker (Level-4)
+            \n<font color="#9d1d40">&#8226;</font> Aluminium Fabricator (Level-4)
+            \n<font color="#9d1d40">&#8226;</font> Professional Tailor (Level-4)
+        </font>
+    </string>
+
+    <string name="vtcpatti"><font color="#9d1d40" size="20">Available Courses</font>
+        <font color="#0000" size="17">
+            \n\n<font color="#9d1d40">&#8226;</font> Wood Craftsman (Level-4)
+            \n<font color="#9d1d40">&#8226;</font> Masonry (Level-3)
+        </font>
+    </string>
+
+    <string name="vtckky"><font color="#9d1d40" size="20">Available Courses</font>
+        <font color="#0000" size="17">
+            \n\n<font color="#9d1d40">&#8226;</font> ICTT (Level-4)
+            \n<font color="#9d1d40">&#8226;</font> Electrician-Domestic (Level-3)
+        </font>
+    </string>
+
+    <string name="vtcaray"><font color="#9d1d40" size="20">Available Courses</font>
+        <font color="#0000" size="17">
+            \n\n<font color="#9d1d40">&#8226;</font> ICTT (Level-4)
+            \n<font color="#9d1d40">&#8226;</font> Graphic Designer (Level-4)
+        </font>
+    </string>
+
+    <string name="vtckiran"><font color="#9d1d40" size="20">Available Courses</font>
+        <font color="#0000" size="17">
+            \n\n<font color="#9d1d40">&#8226;</font> Plumber (Level-4)
+            \n<font color="#9d1d40">&#8226;</font> Masonry (Level-4)
+        </font>
+    </string>
+
+    <string name="vtcvalai"><font color="#9d1d40" size="20">Available Courses</font>
+        <font color="#0000" size="17">
+            \n\n<font color="#9d1d40">&#8226;</font> ICTT (Level-4)
+            \n<font color="#9d1d40">&#8226;</font> Aluminium Fabricator (Level-4)
+        </font>
+    </string>
+
+    <string name="vtcvaharai"><font color="#9d1d40" size="20">Available Courses</font>
+        <font color="#0000" size="17">
+            \n\n<font color="#9d1d40">&#8226;</font> ICTT (Level-4)
+            \n<font color="#9d1d40">&#8226;</font> Three Wheel Mechanic (Level-4)
+            \n<font color="#9d1d40">&#8226;</font> Plumber (Level-3)
+        </font>
+    </string>
+
+    <string name="vtcvavu"><font color="#9d1d40" size="20">Available Courses</font>
+        <font color="#0000" size="17">
+            \n\n<font color="#9d1d40">&#8226;</font> ICTT (Level-4)
+            \n<font color="#9d1d40">&#8226;</font> Plumber (Level-3)
+        </font>
+    </string>
+
+    <string name="vtcvell"><font color="#9d1d40" size="20">Available Courses</font>
+        <font color="#0000" size="17">
+            \n\n<font color="#9d1d40">&#8226;</font> ICTT (Level-4)
+            \n<font color="#9d1d40">&#8226;</font> Wood Craftsman (Level-3)
+        </font>
+    </string>
+
+
+</resources>

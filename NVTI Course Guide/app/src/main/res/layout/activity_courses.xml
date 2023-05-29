@@ -1,0 +1,1254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".courses"
+    >
+
+    <RelativeLayout
+        android:id="@+id/r1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/vta"
+        android:layout_marginBottom="580sp"
+        >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="35sp"
+            android:fontFamily="sans-serif-thin"
+            android:gravity="center"
+            android:text="Courses"
+            android:textColor="#FFFFFF"
+            android:textSize="35sp" />
+    </RelativeLayout>
+
+    <ScrollView
+        android:id="@+id/s1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/r1"
+        android:layout_marginTop="-630sp">
+
+        <LinearLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="28dp"
+                android:onClick="expand"
+                app:cardCornerRadius="15dp"
+                app:cardElevation="18dp"
+                app:contentPadding="12dp">
+
+                <LinearLayout
+                    android:id="@+id/l1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:animateLayoutChanges="true"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:drawableLeft="@drawable/ndict"
+                        android:text="      NDICT (NVQ Level 5)"
+                        android:textColor="@color/vta"
+                        android:textSize="22sp" />
+
+                    <TextView
+                        android:id="@+id/txt1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8sp"
+                        android:text="@string/ndict"
+                        android:textColor="@color/vta"
+                        android:textSize="18sp"
+                        android:visibility="gone" />
+
+                    <Button
+                        android:id="@+id/b1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20sp"
+                        android:layout_marginRight="20sp"
+                        android:layout_marginBottom="20sp"
+                        android:background="@drawable/radious"
+                        android:backgroundTint="@color/vta"
+                        android:fontFamily="sans-serif-medium"
+                        android:gravity="center"
+                        android:text="Apply Now"
+                        android:textColor="#FFFFFFFF"
+                        android:visibility="gone" />
+
+
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="28dp"
+                android:layout_marginRight="28dp"
+                android:layout_marginBottom="28dp"
+                android:onClick="expand10"
+                app:cardCornerRadius="15dp"
+                app:cardElevation="18dp"
+                app:contentPadding="12dp">
+
+                <LinearLayout
+                    android:id="@+id/l10"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:animateLayoutChanges="true"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:drawableLeft="@drawable/qs"
+                        android:text="      NDQS (NVQ Level 5)"
+                        android:textColor="@color/vta"
+                        android:textSize="22sp" />
+
+                    <TextView
+                        android:id="@+id/txt10"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8sp"
+                        android:text="@string/ndqs"
+                        android:textColor="@color/black"
+                        android:textSize="15sp"
+                        android:visibility="gone" />
+
+                    <Button
+                        android:id="@+id/b10"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20sp"
+                        android:layout_marginRight="20sp"
+                        android:layout_marginBottom="20sp"
+                        android:background="@drawable/radious"
+                        android:backgroundTint="@color/vta"
+                        android:fontFamily="sans-serif-medium"
+                        android:gravity="center"
+                        android:text="Apply Now"
+                        android:textColor="#FFFFFFFF"
+                        android:visibility="gone" />
+
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="28dp"
+                android:layout_marginRight="28dp"
+                android:onClick="expand2"
+                app:cardCornerRadius="15dp"
+                app:cardElevation="18dp"
+                app:contentPadding="12dp">
+
+                <LinearLayout
+                    android:id="@+id/l2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:animateLayoutChanges="true"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:drawableLeft="@drawable/it"
+                        android:text="      ICTT"
+                        android:textColor="@color/vta"
+                        android:textSize="22sp" />
+
+                    <TextView
+                        android:id="@+id/txt2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8sp"
+                        android:text="@string/ict4"
+                        android:textColor="@color/vta"
+                        android:textSize="18sp"
+                        android:visibility="gone" />
+
+                    <Button
+                        android:id="@+id/b2"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20sp"
+                        android:layout_marginRight="20sp"
+                        android:layout_marginBottom="20sp"
+                        android:background="@drawable/radious"
+                        android:backgroundTint="@color/vta"
+                        android:fontFamily="sans-serif-medium"
+                        android:gravity="center"
+                        android:text="Apply Now"
+                        android:textColor="#FFFFFFFF"
+                        android:visibility="gone" />
+
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="28dp"
+                android:layout_marginTop="28dp"
+                android:layout_marginRight="28dp"
+                android:onClick="expand3"
+                app:cardCornerRadius="15dp"
+                app:cardElevation="18dp"
+                app:contentPadding="12dp">
+
+                <LinearLayout
+                    android:id="@+id/l3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:animateLayoutChanges="true"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:drawableLeft="@drawable/electronics"
+                        android:text="      Electronics"
+                        android:textColor="@color/vta"
+                        android:textSize="22sp" />
+
+                    <TextView
+                        android:id="@+id/txt3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8sp"
+                        android:text="@string/electro"
+                        android:textColor="@color/black"
+                        android:textSize="15sp"
+                        android:visibility="gone" />
+
+                    <Button
+                        android:id="@+id/b3"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20sp"
+                        android:layout_marginRight="20sp"
+                        android:layout_marginBottom="20sp"
+                        android:background="@drawable/radious"
+                        android:backgroundTint="@color/vta"
+                        android:fontFamily="sans-serif-medium"
+                        android:gravity="center"
+                        android:text="Apply Now"
+                        android:textColor="#FFFFFFFF"
+                        android:visibility="gone" />
+
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="28dp"
+                android:layout_marginTop="28dp"
+                android:layout_marginRight="28dp"
+                android:onClick="expand4"
+                app:cardCornerRadius="15dp"
+                app:cardElevation="18dp"
+                app:contentPadding="12dp">
+
+                <LinearLayout
+                    android:id="@+id/l4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:animateLayoutChanges="true"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:drawableLeft="@drawable/machine"
+                        android:text="      CNC"
+                        android:textColor="@color/vta"
+                        android:textSize="22sp" />
+
+                    <TextView
+                        android:id="@+id/txt4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8sp"
+                        android:text="@string/cnc4"
+                        android:textColor="@color/black"
+                        android:textSize="15sp"
+                        android:visibility="gone" />
+
+                    <Button
+                        android:id="@+id/b4"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20sp"
+                        android:layout_marginRight="20sp"
+                        android:layout_marginBottom="20sp"
+                        android:background="@drawable/radious"
+                        android:backgroundTint="@color/vta"
+                        android:fontFamily="sans-serif-medium"
+                        android:gravity="center"
+                        android:text="Apply Now"
+                        android:textColor="#FFFFFFFF"
+                        android:visibility="gone" />
+
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="28dp"
+                android:layout_marginTop="28dp"
+                android:layout_marginRight="28dp"
+                android:onClick="expand5"
+                app:cardCornerRadius="15dp"
+                app:cardElevation="18dp"
+                app:contentPadding="12dp">
+
+                <LinearLayout
+                    android:id="@+id/l5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:animateLayoutChanges="true"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:drawableLeft="@drawable/cnc"
+                        android:text="      Machinist"
+                        android:textColor="@color/vta"
+                        android:textSize="22sp" />
+
+                    <TextView
+                        android:id="@+id/txt5"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8sp"
+                        android:text="@string/machinist4"
+                        android:textColor="@color/black"
+                        android:textSize="15sp"
+                        android:visibility="gone" />
+
+                    <Button
+                        android:id="@+id/b5"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20sp"
+                        android:layout_marginRight="20sp"
+                        android:layout_marginBottom="20sp"
+                        android:background="@drawable/radious"
+                        android:backgroundTint="@color/vta"
+                        android:fontFamily="sans-serif-medium"
+                        android:gravity="center"
+                        android:text="Apply Now"
+                        android:textColor="#FFFFFFFF"
+                        android:visibility="gone" />
+
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="28dp"
+                android:layout_marginTop="28dp"
+                android:layout_marginRight="28dp"
+                android:onClick="expand6"
+                app:cardCornerRadius="15dp"
+                app:cardElevation="18dp"
+                app:contentPadding="12dp">
+
+                <LinearLayout
+                    android:id="@+id/l6"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:animateLayoutChanges="true"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:drawableLeft="@drawable/vission"
+                        android:text="      Beautician"
+                        android:textColor="@color/vta"
+                        android:textSize="22sp" />
+
+                    <TextView
+                        android:id="@+id/txt6"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8sp"
+                        android:text="@string/beauty"
+                        android:textColor="@color/black"
+                        android:textSize="15sp"
+                        android:visibility="gone" />
+
+                    <Button
+                        android:id="@+id/b6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20sp"
+                        android:layout_marginRight="20sp"
+                        android:layout_marginBottom="20sp"
+                        android:background="@drawable/radious"
+                        android:backgroundTint="@color/vta"
+                        android:fontFamily="sans-serif-medium"
+                        android:gravity="center"
+                        android:text="Apply Now"
+                        android:textColor="#FFFFFFFF"
+                        android:visibility="gone" />
+
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="28dp"
+                android:layout_marginTop="28dp"
+                android:layout_marginRight="28dp"
+                android:onClick="expand7"
+                app:cardCornerRadius="15dp"
+                app:cardElevation="18dp"
+                app:contentPadding="12dp">
+
+                <LinearLayout
+                    android:id="@+id/l7"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:animateLayoutChanges="true"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:drawableLeft="@drawable/mason"
+                        android:text="      Masonry"
+                        android:textColor="@color/vta"
+                        android:textSize="22sp" />
+
+                    <TextView
+                        android:id="@+id/txt7"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8sp"
+                        android:text="@string/mason"
+                        android:textColor="@color/black"
+                        android:textSize="15sp"
+                        android:visibility="gone" />
+
+                    <Button
+                        android:id="@+id/b7"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20sp"
+                        android:layout_marginRight="20sp"
+                        android:layout_marginBottom="20sp"
+                        android:background="@drawable/radious"
+                        android:backgroundTint="@color/vta"
+                        android:fontFamily="sans-serif-medium"
+                        android:gravity="center"
+                        android:text="Apply Now"
+                        android:textColor="#FFFFFFFF"
+                        android:visibility="gone" />
+
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="28dp"
+                android:layout_marginTop="28dp"
+                android:layout_marginRight="28dp"
+                android:onClick="expand8"
+                app:cardCornerRadius="15dp"
+                app:cardElevation="18dp"
+                app:contentPadding="12dp">
+
+                <LinearLayout
+                    android:id="@+id/l8"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:animateLayoutChanges="true"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:drawableLeft="@drawable/eco"
+                        android:text="      Agriculture"
+                        android:textColor="@color/vta"
+                        android:textSize="22sp" />
+
+                    <TextView
+                        android:id="@+id/txt8"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8sp"
+                        android:text="@string/agri"
+                        android:textColor="@color/black"
+                        android:textSize="15sp"
+                        android:visibility="gone" />
+
+                    <Button
+                        android:id="@+id/b8"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20sp"
+                        android:layout_marginRight="20sp"
+                        android:layout_marginBottom="20sp"
+                        android:background="@drawable/radious"
+                        android:backgroundTint="@color/vta"
+                        android:fontFamily="sans-serif-medium"
+                        android:gravity="center"
+                        android:text="Apply Now"
+                        android:textColor="#FFFFFFFF"
+                        android:visibility="gone" />
+
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="28dp"
+                android:layout_marginTop="28dp"
+                android:layout_marginRight="28dp"
+                android:onClick="expand9"
+                app:cardCornerRadius="15dp"
+                app:cardElevation="18dp"
+                app:contentPadding="12dp">
+
+                <LinearLayout
+                    android:id="@+id/l9"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:animateLayoutChanges="true"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:drawableLeft="@drawable/electrical"
+                        android:text="      Electrical"
+                        android:textColor="@color/vta"
+                        android:textSize="22sp" />
+
+                    <TextView
+                        android:id="@+id/txt9"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8sp"
+                        android:text="@string/elctricalt"
+                        android:textColor="@color/black"
+                        android:textSize="15sp"
+                        android:visibility="gone" />
+
+                    <Button
+                        android:id="@+id/b9"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20sp"
+                        android:layout_marginRight="20sp"
+                        android:layout_marginBottom="20sp"
+                        android:background="@drawable/radious"
+                        android:backgroundTint="@color/vta"
+                        android:fontFamily="sans-serif-medium"
+                        android:gravity="center"
+                        android:text="Apply Now"
+                        android:textColor="#FFFFFFFF"
+                        android:visibility="gone" />
+
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="28dp"
+                android:layout_marginTop="28dp"
+                android:layout_marginRight="28dp"
+                android:onClick="expand11"
+                app:cardCornerRadius="15dp"
+                app:cardElevation="18dp"
+                app:contentPadding="12dp">
+
+                <LinearLayout
+                    android:id="@+id/l11"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:animateLayoutChanges="true"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:drawableLeft="@drawable/electronics2"
+                        android:text="      A/C Technician"
+                        android:textColor="@color/vta"
+                        android:textSize="22sp" />
+
+                    <TextView
+                        android:id="@+id/txt11"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8sp"
+                        android:text="@string/act"
+                        android:textColor="@color/black"
+                        android:textSize="15sp"
+                        android:visibility="gone" />
+
+                    <Button
+                        android:id="@+id/b11"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20sp"
+                        android:layout_marginRight="20sp"
+                        android:layout_marginBottom="20sp"
+                        android:background="@drawable/radious"
+                        android:backgroundTint="@color/vta"
+                        android:fontFamily="sans-serif-medium"
+                        android:gravity="center"
+                        android:text="Apply Now"
+                        android:textColor="#FFFFFFFF"
+                        android:visibility="gone" />
+
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="28dp"
+                android:layout_marginTop="28dp"
+                android:layout_marginRight="28dp"
+                android:onClick="expand12"
+                app:cardCornerRadius="15dp"
+                app:cardElevation="18dp"
+                app:contentPadding="12dp">
+
+                <LinearLayout
+                    android:id="@+id/l12"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:animateLayoutChanges="true"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:drawableLeft="@drawable/auto"
+                        android:text="      Auto Mobile"
+                        android:textColor="@color/vta"
+                        android:textSize="22sp" />
+
+                    <TextView
+                        android:id="@+id/txt12"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8sp"
+                        android:text="@string/autot"
+                        android:textColor="@color/black"
+                        android:textSize="15sp"
+                        android:visibility="gone" />
+
+                    <Button
+                        android:id="@+id/b12"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20sp"
+                        android:layout_marginRight="20sp"
+                        android:layout_marginBottom="20sp"
+                        android:background="@drawable/radious"
+                        android:backgroundTint="@color/vta"
+                        android:fontFamily="sans-serif-medium"
+                        android:gravity="center"
+                        android:text="Apply Now"
+                        android:textColor="#FFFFFFFF"
+                        android:visibility="gone" />
+
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="28dp"
+                android:layout_marginTop="28dp"
+                android:layout_marginRight="28dp"
+                android:onClick="expand13"
+                app:cardCornerRadius="15dp"
+                app:cardElevation="18dp"
+                app:contentPadding="12dp">
+
+                <LinearLayout
+                    android:id="@+id/l13"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:animateLayoutChanges="true"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:drawableLeft="@drawable/wood"
+                        android:text="      Wood Craftsman"
+                        android:textColor="@color/vta"
+                        android:textSize="22sp" />
+
+                    <TextView
+                        android:id="@+id/txt13"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8sp"
+                        android:text="@string/wood"
+                        android:textColor="@color/black"
+                        android:textSize="15sp"
+                        android:visibility="gone" />
+
+                    <Button
+                        android:id="@+id/b13"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20sp"
+                        android:layout_marginRight="20sp"
+                        android:layout_marginBottom="20sp"
+                        android:background="@drawable/radious"
+                        android:backgroundTint="@color/vta"
+                        android:fontFamily="sans-serif-medium"
+                        android:gravity="center"
+                        android:text="Apply Now"
+                        android:textColor="#FFFFFFFF"
+                        android:visibility="gone" />
+
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="28dp"
+                android:layout_marginTop="28dp"
+                android:layout_marginRight="28dp"
+                android:onClick="expand14"
+                app:cardCornerRadius="15dp"
+                app:cardElevation="18dp"
+                app:contentPadding="12dp">
+
+                <LinearLayout
+                    android:id="@+id/l14"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:animateLayoutChanges="true"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:drawableLeft="@drawable/hair"
+                        android:text="      Hair Dresser"
+                        android:textColor="@color/vta"
+                        android:textSize="22sp" />
+
+                    <TextView
+                        android:id="@+id/txt14"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8sp"
+                        android:text="@string/haird"
+                        android:textColor="@color/black"
+                        android:textSize="15sp"
+                        android:visibility="gone" />
+
+                    <Button
+                        android:id="@+id/b14"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20sp"
+                        android:layout_marginRight="20sp"
+                        android:layout_marginBottom="20sp"
+                        android:background="@drawable/radious"
+                        android:backgroundTint="@color/vta"
+                        android:fontFamily="sans-serif-medium"
+                        android:gravity="center"
+                        android:text="Apply Now"
+                        android:textColor="#FFFFFFFF"
+                        android:visibility="gone" />
+
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="28dp"
+                android:layout_marginTop="28dp"
+                android:layout_marginRight="28dp"
+                android:onClick="expand15"
+                app:cardCornerRadius="15dp"
+                app:cardElevation="18dp"
+                app:contentPadding="12dp">
+
+                <LinearLayout
+                    android:id="@+id/l15"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:animateLayoutChanges="true"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:drawableLeft="@drawable/electrical"
+                        android:text="      Electrical-Domestic"
+                        android:textColor="@color/vta"
+                        android:textSize="22sp" />
+
+                    <TextView
+                        android:id="@+id/txt15"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8sp"
+                        android:text="@string/elec3"
+                        android:textColor="@color/black"
+                        android:textSize="15sp"
+                        android:visibility="gone" />
+
+                    <Button
+                        android:id="@+id/b15"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20sp"
+                        android:layout_marginRight="20sp"
+                        android:layout_marginBottom="20sp"
+                        android:background="@drawable/radious"
+                        android:backgroundTint="@color/vta"
+                        android:fontFamily="sans-serif-medium"
+                        android:gravity="center"
+                        android:text="Apply Now"
+                        android:textColor="#FFFFFFFF"
+                        android:visibility="gone" />
+
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="28dp"
+                android:layout_marginTop="28dp"
+                android:layout_marginRight="28dp"
+                android:onClick="expand16"
+                app:cardCornerRadius="15dp"
+                app:cardElevation="18dp"
+                app:contentPadding="12dp">
+
+                <LinearLayout
+                    android:id="@+id/l16"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:animateLayoutChanges="true"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:drawableLeft="@drawable/brush"
+                        android:text="      Graphic Designer"
+                        android:textColor="@color/vta"
+                        android:textSize="22sp" />
+
+                    <TextView
+                        android:id="@+id/txt16"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8sp"
+                        android:text="@string/cgd"
+                        android:textColor="@color/black"
+                        android:textSize="15sp"
+                        android:visibility="gone" />
+
+                    <Button
+                        android:id="@+id/b16"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20sp"
+                        android:layout_marginRight="20sp"
+                        android:layout_marginBottom="20sp"
+                        android:background="@drawable/radious"
+                        android:backgroundTint="@color/vta"
+                        android:fontFamily="sans-serif-medium"
+                        android:gravity="center"
+                        android:text="Apply Now"
+                        android:textColor="#FFFFFFFF"
+                        android:visibility="gone" />
+
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="28dp"
+                android:layout_marginTop="28dp"
+                android:layout_marginRight="28dp"
+                android:onClick="expand17"
+                app:cardCornerRadius="15dp"
+                app:cardElevation="18dp"
+                app:contentPadding="12dp">
+
+                <LinearLayout
+                    android:id="@+id/l17"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:animateLayoutChanges="true"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:drawableLeft="@drawable/plumber"
+                        android:text="      Plumber"
+                        android:textColor="@color/vta"
+                        android:textSize="22sp" />
+
+                    <TextView
+                        android:id="@+id/txt17"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8sp"
+                        android:text="@string/plumber"
+                        android:textColor="@color/black"
+                        android:textSize="15sp"
+                        android:visibility="gone" />
+
+                    <Button
+                        android:id="@+id/b17"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20sp"
+                        android:layout_marginRight="20sp"
+                        android:layout_marginBottom="20sp"
+                        android:background="@drawable/radious"
+                        android:backgroundTint="@color/vta"
+                        android:fontFamily="sans-serif-medium"
+                        android:gravity="center"
+                        android:text="Apply Now"
+                        android:textColor="#FFFFFFFF"
+                        android:visibility="gone" />
+
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="28dp"
+                android:layout_marginTop="28dp"
+                android:layout_marginRight="28dp"
+                android:onClick="expand18"
+                app:cardCornerRadius="15dp"
+                app:cardElevation="18dp"
+                app:contentPadding="12dp">
+
+                <LinearLayout
+                    android:id="@+id/l18"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:animateLayoutChanges="true"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:drawableLeft="@drawable/alum"
+                        android:text="      Aluminium Fabricator"
+                        android:textColor="@color/vta"
+                        android:textSize="22sp" />
+
+                    <TextView
+                        android:id="@+id/txt18"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8sp"
+                        android:text="@string/alu"
+                        android:textColor="@color/black"
+                        android:textSize="15sp"
+                        android:visibility="gone" />
+
+                    <Button
+                        android:id="@+id/b18"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20sp"
+                        android:layout_marginRight="20sp"
+                        android:layout_marginBottom="20sp"
+                        android:background="@drawable/radious"
+                        android:backgroundTint="@color/vta"
+                        android:fontFamily="sans-serif-medium"
+                        android:gravity="center"
+                        android:text="Apply Now"
+                        android:textColor="#FFFFFFFF"
+                        android:visibility="gone" />
+
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="28dp"
+                android:layout_marginTop="28dp"
+                android:layout_marginRight="28dp"
+                android:onClick="expand19"
+                app:cardCornerRadius="15dp"
+                app:cardElevation="18dp"
+                app:contentPadding="12dp">
+
+                <LinearLayout
+                    android:id="@+id/l19"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:animateLayoutChanges="true"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:drawableLeft="@drawable/wheel"
+                        android:text="      Three Wheeler Mechanic"
+                        android:textColor="@color/vta"
+                        android:textSize="22sp" />
+
+                    <TextView
+                        android:id="@+id/txt19"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8sp"
+                        android:text="@string/wheel"
+                        android:textColor="@color/black"
+                        android:textSize="15sp"
+                        android:visibility="gone" />
+
+                    <Button
+                        android:id="@+id/b19"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20sp"
+                        android:layout_marginRight="20sp"
+                        android:layout_marginBottom="20sp"
+                        android:background="@drawable/radious"
+                        android:backgroundTint="@color/vta"
+                        android:fontFamily="sans-serif-medium"
+                        android:gravity="center"
+                        android:text="Apply Now"
+                        android:textColor="#FFFFFFFF"
+                        android:visibility="gone" />
+
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="28dp"
+                android:layout_marginTop="28dp"
+                android:layout_marginRight="28dp"
+                android:onClick="expand20"
+                app:cardCornerRadius="15dp"
+                app:cardElevation="18dp"
+                app:contentPadding="12dp">
+
+                <LinearLayout
+                    android:id="@+id/l20"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:animateLayoutChanges="true"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:drawableLeft="@drawable/tailoring"
+                        android:text="      Professional Tailor"
+                        android:textColor="@color/vta"
+                        android:textSize="22sp" />
+
+                    <TextView
+                        android:id="@+id/txt20"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8sp"
+                        android:text="@string/tailor"
+                        android:textColor="@color/black"
+                        android:textSize="15sp"
+                        android:visibility="gone" />
+
+                    <Button
+                        android:id="@+id/b20"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20sp"
+                        android:layout_marginRight="20sp"
+                        android:layout_marginBottom="20sp"
+                        android:background="@drawable/radious"
+                        android:backgroundTint="@color/vta"
+                        android:fontFamily="sans-serif-medium"
+                        android:gravity="center"
+                        android:text="Apply Now"
+                        android:textColor="#FFFFFFFF"
+                        android:visibility="gone" />
+
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="28dp"
+                android:layout_marginTop="28dp"
+                android:layout_marginRight="28dp"
+                android:onClick="expand21"
+                app:cardCornerRadius="15dp"
+                app:cardElevation="18dp"
+                app:contentPadding="12dp">
+
+                <LinearLayout
+                    android:id="@+id/l21"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:animateLayoutChanges="true"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:drawableLeft="@drawable/cake"
+                        android:text="      Baker"
+                        android:textColor="@color/vta"
+                        android:textSize="22sp" />
+
+                    <TextView
+                        android:id="@+id/txt21"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8sp"
+                        android:text="@string/bake"
+                        android:textColor="@color/black"
+                        android:textSize="15sp"
+                        android:visibility="gone" />
+
+                    <Button
+                        android:id="@+id/b21"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20sp"
+                        android:layout_marginRight="20sp"
+                        android:layout_marginBottom="20sp"
+                        android:background="@drawable/radious"
+                        android:backgroundTint="@color/vta"
+                        android:fontFamily="sans-serif-medium"
+                        android:gravity="center"
+                        android:text="Apply Now"
+                        android:textColor="#FFFFFFFF"
+                        android:visibility="gone" />
+
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="28dp"
+                android:layout_marginTop="28dp"
+                android:layout_marginRight="28dp"
+                android:onClick="expand22"
+                app:cardCornerRadius="15dp"
+                app:cardElevation="18dp"
+                app:contentPadding="12dp">
+
+                <LinearLayout
+                    android:id="@+id/l22"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:animateLayoutChanges="true"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:drawableLeft="@drawable/abc"
+                        android:text="      English ( Part Time )"
+                        android:textColor="@color/vta"
+                        android:textSize="22sp" />
+
+                    <TextView
+                        android:id="@+id/txt22"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8sp"
+                        android:text="@string/eng"
+                        android:textColor="@color/black"
+                        android:textSize="15sp"
+                        android:visibility="gone" />
+
+                    <Button
+                        android:id="@+id/b22"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20sp"
+                        android:layout_marginRight="20sp"
+                        android:layout_marginBottom="20sp"
+                        android:background="@drawable/radious"
+                        android:backgroundTint="@color/vta"
+                        android:fontFamily="sans-serif-medium"
+                        android:gravity="center"
+                        android:text="Apply Now"
+                        android:textColor="#FFFFFFFF"
+                        android:visibility="gone" />
+
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="49dp"
+                android:background="@color/black">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5sp"
+                    android:layout_marginBottom="5sp"
+                    android:fontFamily="sans-serif-light"
+                    android:gravity="center"
+                    android:text="Copyright &#169; 2023,NDICT,All Rights Reserved."
+                    android:textColor="#FFFFFF"
+                    android:textSize="12sp" />
+            </RelativeLayout>
+
+        </LinearLayout>
+    </ScrollView>
+
+
+
+</RelativeLayout>
